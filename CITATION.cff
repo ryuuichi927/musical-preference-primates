@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Musical Preference in Nonhuman Primates: a 2019 undergraduate coursework archive"
+message: "If you refer to this work, cite the report below. It is a hypothetical study report, not a conducted study."
+type: software
+authors:
+  - family-names: Hamakawa
+    given-names: Ryuichi
+    orcid: "https://orcid.org/0009-0003-2549-6145"
+repository-code: "https://github.com/ryuuichi927/musical-preference-primates"
+license-url: "https://github.com/ryuuichi927/musical-preference-primates/blob/main/LICENSE"
+date-released: "2026-08-17"
+keywords:
+  - music psychology
+  - musical preference
+  - nonhuman primates
+  - undergraduate coursework
+references:
+  - type: report
+    title: "Musical Preference in Nonhuman Primate"
+    authors:
+      - family-names: Hamakawa
+        given-names: Ryuichi
+    year: 2019
+    month: 12
+    institution:
+      name: State University of New York at Stony Brook
+    notes: >-
+      Hypothetical study report written for PSY310. The study was never run;
+      the cell means were invented for the assignment and the inferential
+      statistics are left unfilled. See NOTES.md.
